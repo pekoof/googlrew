@@ -28,6 +28,213 @@ client.user.setGame(``,"")
   console.log('')
 });
 
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
 
 
 
@@ -44,6 +251,11 @@ client.user.setGame(``,"")
 
 
 
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
 
 
 
@@ -57,6 +269,1205 @@ client.user.setGame(``,"")
 
 
 
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
+
+
+
+
+
+
+
+
+
+client.on('message', message => {
+    if(message.content === 'الكلمه'){
+        message.channel.send('الرد')
+    }
+});
 
 
 
