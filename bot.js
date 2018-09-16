@@ -32,7 +32,6 @@ client.on('message', message => {
     if(message.content === 'كودالبنكر'){
         message.channel.send('00085')
     }
-});
 
 
 
