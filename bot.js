@@ -39,7 +39,7 @@ client.on('message', message => {
 if (message.content.startsWith('كود البنكر')){
      let ra3d = new Discord.RichEmbed()
   .setAuthor(message.author.username)
-  .setColor("random")
+  .setColor("RANADOM")
   .setDescription(" **00085**")
      
      
