@@ -36,11 +36,11 @@ client.user.setGame(`Alpha Codes `,"http://twitch.tv/Alpha Codes")
 
 
 client.on('message', message => {
-if (message.content.startsWith('code bunker')){
+if (message.content.startsWith('كود البنكر')){
      let ra3d = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("RANADOM")
-  .setDescription(" **08442**")
+  .setDescription(" **000**")
      
      
   message.channel.sendEmbed(ra3d);
