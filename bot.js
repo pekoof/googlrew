@@ -40,7 +40,7 @@ if (message.content.startsWith('code bunker')){
      let ra3d = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("RANADOM")
-  .setDescription(" **10270**")
+  .setDescription(" **05857**")
      
      
   message.channel.sendEmbed(ra3d);
