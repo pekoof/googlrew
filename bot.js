@@ -4,7 +4,7 @@ const prefix = '+'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`invint by the killar `,"http://twitch.tv/Alpha Codes")
+client.user.setGame(`invited by A.B.K `,"http://twitch.tv/Alpha Codes")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -40,7 +40,7 @@ if (message.content.startsWith('code bunker')){
      let ra3d = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("RANADOM")
-  .setDescription(" **87727**")
+  .setDescription(" **75548**")
      
      
   message.channel.sendEmbed(ra3d);
